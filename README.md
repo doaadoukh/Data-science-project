@@ -1,5 +1,5 @@
 # Data-science-project
-2nd year computer science final assessment for a data science module
+2nd year computer science data project
 
 We were given a brief and unnormalised data about a UK bank's financial data, where we had to analyse the data in order to help them improve their financial services and present them to the stakeholders of the bank. These findings are to help improve customer service and inform data-driven decision making within the organisation. 
 
